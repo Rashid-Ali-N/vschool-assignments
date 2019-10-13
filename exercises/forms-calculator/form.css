@@ -1,0 +1,27 @@
+.But {
+    height: 20px;
+    width: 50px;
+    box-shadow: 0px 3px #93C48B;
+    border: none;
+   
+}
+
+.But:active {
+    box-shadow: none;
+  }
+
+.color {
+    background-color: #CBFF8C
+    
+}
+
+input[type=number] {
+    margin: 5px;
+    
+}
+
+.formParent {
+    height: 100px;
+    width: 400px;
+    background-color: rgb(40, 68, 5)
+}

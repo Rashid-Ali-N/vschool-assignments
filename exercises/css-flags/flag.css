@@ -1,0 +1,271 @@
+.blue {
+    height: 300px;
+    width: 150px;
+    background-color:  blue;
+    display: inline-block;
+}
+
+.white {
+    height: 300px;
+    width: 150px;
+    background-color:  white;
+    display: inline-block;
+}
+
+.red {
+    height: 300px;
+    width: 150px;
+    background-color: red;
+    display: inline-block;
+}
+
+.black {
+    height: 100px;
+    width: 450px;
+    background-color:  black;
+    position: absolute top;
+    
+}
+
+.red2 {
+    height: 100px;
+    width: 450px;
+    background-color:  red;
+    
+    
+}
+
+.yellow {
+    height: 100px;
+    width: 450px;
+    background-color:  yellow;
+    
+    
+}
+
+.madagascar {
+    
+    height: 300px;
+    width: 700px;
+}
+
+.mdwhite {
+    height: 100px;
+    width: 150px;
+    background-color:  white;
+    display: inline-block;
+}
+
+.mdred {
+    height: 100px;
+    width: 300px;
+    background-color:  red;
+    
+    
+}
+
+.mdgreen {
+    height: 100px;
+    width: 300px;
+    background-color:  green;
+    
+    
+}
+
+.side {
+    display: inline-block;
+}
+
+.swred {
+    height: 200px;
+    width: 450px;
+    background-color:  red;
+}
+
+.whiteswh {
+    height: 100px;
+    width: 20px;
+    background-color: white;
+    position: relative;
+    left: 215px;
+    top: 50px;
+}
+
+.whitesw2w {
+    height: 20px;
+    width: 100px;
+    background-color: white;
+    position: relative;
+    left: 175px;
+    top: -7px;
+}
+
+.swside {
+    height: 200px;
+    width: 450px;
+    }
+    
+.swblue {
+    height: 200px;
+    width: 450px;
+    background-color:  blue;
+    }
+
+.yellowhor {
+    height: 30px;
+    width: 450px;
+    background-color: yellow;
+    position: relative;
+    left: 0px;
+    top: 90px;
+}
+
+.yellowvert {
+    height: 200px;
+    width: 30px;
+    background-color: yellow;
+    position: relative;
+    left: 60px;
+    top: -30px;
+}
+.gmred {
+height: 100px;
+    width: 450px;
+    background-color:  red;
+    
+}
+
+.gmblue {
+    height: 100px;
+    width: 450px;
+    background-color:  blue;
+    border-top: 10px solid white;
+    border-bottom: 10px solid white;
+}
+
+.gmgreen {
+    height: 100px;
+    width: 450px;
+    background-color:  green;
+   
+}
+
+.twhite {
+    height: 100px;
+    width: 150px;
+    background-color:  white;
+}
+
+.tongaht {
+    height: 70px;
+    width: 20px;
+    background-color: red;
+    position: relative;
+    left: 59px;
+    top: 15px;
+}
+
+.tongawt {
+    height: 20px;
+    width: 70px;
+    background-color: red;
+    position: relative;
+    left: 35px;
+    top: -29px;
+}
+
+.tonga {
+    height: 200px;
+    width: 450px;
+    background-color:  red;
+    }
+
+
+.redcir {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    left: 169px;
+    top: 56px;
+}
+
+.japan {
+    height: 200px;
+    width: 450px;
+    background-color:  white;
+}
+
+.bluerect {
+    height: 100px;
+    width: 100px;
+    background-color:  blue;
+}
+
+.greece {
+    height: 200px;
+    width: 450px;
+    background-color:  blue;
+}
+.grcwhtht {
+    height: 100px;
+    width: 20px;
+    background-color: white;
+    position: relative;
+    left: 41px;
+    top: 0px;
+}
+
+.grcwhtwt {
+    height: 20px;
+    width: 100px;
+    background-color: white;
+    position: relative;
+    left: 0px;
+    top: -59px;
+}
+.whiteline1 {
+    height: 20px;
+    width: 350px;
+    background-color: white;
+    position: relative;
+    left: 100px;
+    top: -99px;
+}
+
+.whiteline2 {
+    height: 20px;
+    width: 350px;
+    background-color: white;
+    position: relative;
+    left: 100px;
+    top: -78px;
+}
+
+.whiteline3 {
+    height: 20px;
+    width: 450px;
+    background-color: white;
+    position: relative;
+    left: 0px;
+    top: -60px;
+}
+
+.whiteline4 {
+    height: 20px;
+    width: 450px;
+    background-color: white;
+    position: relative;
+    left: 0px;
+    top: -40px;
+}
+
+.whiteline5 {
+    height: 20px;
+    width: 450px;
+    background-color: white;
+    position: relative;
+    left: 0px;
+    top: -40px;
+}
