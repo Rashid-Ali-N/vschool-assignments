@@ -1,0 +1,291 @@
+@media(min-width: 564px) {
+
+    .projectContainer {
+        display: grid;
+        grid-template-columns: repeat(10, 1fr);
+        grid-template-rows: repeat(11, 100px);
+        width: 100vw;
+        
+        
+        background-color: #E7DFD1;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width: 769px) {
+
+.ptjsidebar {
+    grid-column: 1/4;
+    grid-row: 2/8;
+}
+
+.projectContainer {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: repeat(11, 100px);
+    width: 100vw;
+    
+    
+    background-color: #E7DFD1;
+}
+
+.prodinfo {
+    grid-column: 4/-1;
+    grid-row: 2/7;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+
+/* /* .prodlist {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: repeat(15, 100px);
+    grid-gap: 0px;
+    */
+ 
+.prj1{
+    width: 70px;
+    height: 40px;
+    background-color: #CE5E5D;
+    display: flex;
+    display: block;
+    
+}
+
+.prj1 p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    display: flex;
+    padding-top: 10px;
+    text-align: center;
+    align-items: center;
+    display: block;
+    color: #F4F0E8;
+    
+
+}
+
+ .prj2{
+    width: 70px;
+    height: 40px;
+    background-color: #CE5E5D;
+    display: flex;
+    align-items: center;
+    display: block;
+    display: relative;
+}
+
+.prj2 p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    display: flex;
+    padding-top: 10px;
+    text-align: center;
+    align-items: center;
+    display: block;
+    color: #F4F0E8;
+    
+
+} 
+
+.prj3{
+    width: 70px;
+    height: 40px;
+    background-color: #CE5E5D;
+    display: flex;
+    align-items: center;
+    display: block;
+    display: relative;
+}
+
+.prj3 p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    display: flex;
+    padding-top: 10px;
+    text-align: center;
+    align-items: center;
+    display: block;
+    color: #F4F0E8;
+    
+
+}
+
+.prj4{
+    width: 70px;
+    height: 40px;
+    background-color: #CE5E5D;
+    display: flex;
+    align-items: center;
+    display: block;
+    display: relative;
+}
+
+.prj4 p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    display: flex;
+    padding-top: 10px;
+    text-align: center;
+    align-items: center;
+    display: block;
+    color: #F4F0E8;
+    
+
+}
+
+.prj5{
+    width: 99px;
+    height: 40px;
+    background-color: #CE5E5D;
+    display: flex;
+    align-items: center;
+    display: block;
+    display: relative;
+}
+
+.prj5 p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    display: flex;
+    padding-top: 10px;
+    text-align: center;
+    align-items: center;
+    display: block;
+    color: #F4F0E8;
+    
+
+}
+
+.prj6{
+    width: 70px;
+    height: 40px;
+    background-color: #CE5E5D;
+    display: flex;
+    align-items: center;
+    display: block;
+    display: relative;
+}
+
+.prj6 p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    display: flex;
+    padding-top: 10px;
+    text-align: center;
+    align-items: center;
+    display: block;
+    color: #F4F0E8;
+    
+
+} 
+.prodlist1 {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/58b496373a04118476e142fc/1523760758279-D0ISQBA4IIVQ4M14JTP9/ke17ZwdGBToddI8pDm48kNyJ4Xm2dnVKMRM6FXGV0Ix7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hZPx-jNbZA_TaS-5l2nNKHLIkqanlhhAz0lsK3suZfJhSZA2bYmTIQubC8IpcUhPw/tekkon-web-mockup.png?format=1500w"); 
+    background-size: cover;
+    background-position: center;
+    grid-column: 2/4;
+    grid-row: 3/6;
+
+    
+    
+ }
+
+ .prodlist2 {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/58b496373a04118476e142fc/1523982683118-VV6II3MIYPKBZG0WK0JX/ke17ZwdGBToddI8pDm48kNyJ4Xm2dnVKMRM6FXGV0Ix7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hZPx-jNbZA_TaS-5l2nNKHLIkqanlhhAz0lsK3suZfJhSZA2bYmTIQubC8IpcUhPw/donnie-web-mockup.png?format=1500w");
+    background-size: cover;
+    background-position: center;
+    grid-column: 5/7;
+    grid-row: 3/6;
+
+    
+ }
+
+ .prodlist3 {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/58b496373a04118476e142fc/1523761275440-M6FSSGE2P54UPLG7XOTY/ke17ZwdGBToddI8pDm48kNyJ4Xm2dnVKMRM6FXGV0Ix7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hZPx-jNbZA_TaS-5l2nNKHLIkqanlhhAz0lsK3suZfJhSZA2bYmTIQubC8IpcUhPw/matisse-web-mockup.png?format=1500w");
+    background-size: cover;
+    background-position: center;
+    grid-column: 8/10;
+    grid-row: 3/6;
+    
+ }
+
+ .prodlist4 {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/58b496373a04118476e142fc/1523762536036-VEIOOE2Y50E5274OBONL/ke17ZwdGBToddI8pDm48kNyJ4Xm2dnVKMRM6FXGV0Ix7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iOd3oT5VaA2MtpHQbUB1Yk1wWIyCzcww6qn-wdWAzJDXJtihqrjTdeMCXmKnoBCPw/nerd-web-mockup.png?format=1500w"); 
+    background-size: cover;
+    background-position: center;
+    grid-column: 2/4;
+    grid-row: 7/10;
+
+    
+    
+ }
+
+ .prodlist5 {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/58b496373a04118476e142fc/1523761375801-HC8EDVWZE0LS835FV249/ke17ZwdGBToddI8pDm48kNyJ4Xm2dnVKMRM6FXGV0Ix7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hZPx-jNbZA_TaS-5l2nNKHLIkqanlhhAz0lsK3suZfJhSZA2bYmTIQubC8IpcUhPw/kufo-web-mockup.png?format=1500w");
+    background-size: cover;
+    background-position: center;
+    grid-column: 5/7;
+    grid-row: 7/10;
+
+    
+ }
+
+ .prodlist6 {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/58b496373a04118476e142fc/1523762939258-F6TTW22QXPQXZRB304OT/ke17ZwdGBToddI8pDm48kNyJ4Xm2dnVKMRM6FXGV0Ix7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hZPx-jNbZA_TaS-5l2nNKHLIkqanlhhAz0lsK3suZfJhSZA2bYmTIQubC8IpcUhPw/bloody-web-mockup.png?format=1500w");
+    background-size: cover;
+    background-position: center;
+    grid-column: 8/10;
+    grid-row: 7/10;
+    
+ }
+ .prdfooter {
+    grid-column: 1/-1;
+    grid-row: 11/12;
+    font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   font-size: 25px;
+   display: flex;
+   background-color: #BC412B;
+   align-items: center;
+  }
+   .prdfooter p {
+     margin-left: 20px;
+   }
+}

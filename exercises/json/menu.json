@@ -1,0 +1,22 @@
+{
+    "appetizers": [
+       { "name": "flat bread",
+        "ingredients": "bread, cheese, chicken",
+        "description": "delicious and crunchy"
+       },
+
+
+       { "name": "wagyu fries",
+          "ingredients": "wagyu fat, potatoes",
+          "desription": "most flavorfull fries you'll ever eat"
+
+       }
+],
+    "sandwhiches": [
+        { "name": "burger",
+          "ingredients": "wagyu beef, lettuce, aoli, tomato, onion",
+          "description": "best beef in town"
+
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+.header {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    display: flex;
+    padding-top: 10px;
+    text-align: center;
+    align-items: center;
+    display: block;
+    color: black;
+
+
+}
+
+
+
+
+.baddies {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(4, 25vh);
+    margin: 0px;
+    
+}
+
+.goombaimg {
+    
+    display: grid;
+    grid-column: 1/2;
+    grid-auto-rows: max-content;
+    min-height: 100%;
+    min-width: 100%;
+    background-image: url("https://www.mariowiki.com/images/thumb/9/9e/TanookiGoomba-SM3DL.png/1200px-TanookiGoomba-SM3DL.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    
+
+}
+
+
+.bombimg {
+    display: grid;
+    grid-column: 3/4;
+    grid-row: 1/2;
+    
+    background-image: url("https://vignette.wikia.nocookie.net/mario/images/8/8c/Bob-omb%2C_New_Super_Mario_Bros._U.png/revision/latest?cb=20121119023919");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+}
+
+.cheepimg {
+    display: grid;
+    grid-column: 5/6;
+    grid-row: 1/2;
+    background-image: url("https://dreager1.files.wordpress.com/2015/04/cheep_cheep_new_super_mario_bros-_u.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+}
+
+
+
+
+
+
+
+
+
+#total{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 120px;
+    color: black;
+    display: grid;
+    grid-column: 5/6;
+    grid-row: 3/4;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.cont {
+    display: grid;
+    grid-column: 5/6;
+    grid-row: 3/4;
+}
+
+
+.h2 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    color: black;
+
+
+
+}
+
+
+
+input[type = number] {
+
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: black;
+  }
+
+.form {
+    display: grid;
+    grid-column: 1/3;
+    grid-row: 3/3;
+    display: inline-block;
+}
+
+.goombaddiv p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    display: flex;
+    padding-top: 10px;
+    text-align: center;
+    align-items: center;
+    display: block;
+    color: black;
+    
+
+}
+
+.goombaddiv  {
+    display: grid;
+    grid-column: 1/2;
+    grid-row: 2/3;
+    
+
+}
+
+
+
+.bombdiv p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    display: flex;
+    padding-top: 10px;
+    text-align: center;
+    align-items: center;
+    display: block;
+    color: black;
+    
+
+}
+
+
+.bombdiv { 
+    display: grid;
+    grid-column: 3/4;
+    grid-row: 2/3;
+}
+
+
+.cheepdiv p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    display: flex;
+    padding-top: 10px;
+    text-align: center;
+    align-items: center;
+    display: block;
+    color: black;
+    
+
+}
+
+
+.cheepdiv { 
+    display: grid;
+    grid-column: 5/6;
+    grid-row: 2/3;
+}
+
+
+.button {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .footer {
+    width: 100%;
+    height: 90px;
+    font-size: 25px;
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    COLOR: white;
+    display: flex;
+    align-items: center;
+    margin: 0px;
+  }
+
+  .footer p {
+      margin-left: 20px;
+  }
